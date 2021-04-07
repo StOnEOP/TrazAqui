@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EncomendasAceites
+comment1.params=
+comment1.target=EncomendasAceites()
+comment2.params=enc
+comment2.target=EncomendasAceites(java.lang.String)
+comment3.params=a
+comment3.target=EncomendasAceites(EncomendasAceites)
+comment4.params=
+comment4.target=java.lang.String\ getCodigoEncAceite()
+comment5.params=cod
+comment5.target=void\ setCodigoEncAceite(java.lang.String)
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=EncomendasAceites\ clone()
+numComments=9
